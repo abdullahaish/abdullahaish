@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdullahaish
+- 👋 Hi, I’m @abdullahaish.
 - 👀 I’m interested in Artificial Intelligence and Machine Learning.
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
 - 💞️ I’m looking to collaborate on other content github.
