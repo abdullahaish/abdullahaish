@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdullahaish.
-- 👀 I’m interested in Web Development, Django, Artificial Intelligence and Machine Learning.
+- 👀 I’m a Machine Learning Engineer.
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
 - 💞️ I’m looking to collaborate on other content github.
 - 📫 How to reach me? Contact me at abdullahaish7@gmail.com
