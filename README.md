@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdullahaish.
-- 👀 I’m a Machine Learning Engineer.
+- 👀 I’m a <em>Data Scientist</em>.
 - 💞️ I’m looking to collaborate on other content github.
 - 📫 How to reach me? Contact me at abdullahaish7@gmail.com or visit my portfolio https://abdullahaish.herokuapp.com/
 <!---
