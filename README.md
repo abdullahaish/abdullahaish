@@ -13,7 +13,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahaish&show_icons=true&locale=en&layout=compact" alt="abdullahaish" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahaish&" alt="abdullahaish" /></p>
-<p><img align="center" src="https://leetcard.jacoblin.cool/abdullahaish?theme=unicorn&font=Slabo%2027px&ext=heatmap" alt="abdullahaish" /></p>
+<p><img align="center" src="https://leetcard.jacoblin.cool/abdullahaish?theme=unicorn&font=Cardo&ext=activity" alt="abdullahaish" /></p>
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/abdullahaish?theme=unicorn&font=Slabo%2027px&ext=heatmap) -->
 <!---
 abdullahaish/abdullahaish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
