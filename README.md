@@ -3,7 +3,6 @@
 ## 🚀 About Me
 I'm a **Software Engineer & Data Scientist** with expertise in **Backend Development, AI/ML, and Data Science**. Passionate about building scalable systems, automation, and leveraging AI for impactful solutions.
 
-- 🎓 **Master's in Data Science**
 - 🏢 **Software Engineer & Data Scientist** at **RedMath**
 - 🧠 **Thesis:** Enhancing Brain MRI Analysis Using Multi-Modal Data Fusion & XAI
 - 📚 **4+ Research Publications** | **3+ Years of Professional Experience**
