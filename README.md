@@ -5,7 +5,7 @@ I'm a **Software Engineer & Data Scientist** with expertise in **Backend Develop
 
 - 🏢 **Software Engineer & Data Scientist** at **RedMath**
 - 🧠 **Thesis:** Enhancing Brain MRI Analysis Using Multi-Modal Data Fusion & XAI
-- 📚 **4+ Research Publications** | **3+ Years of Professional Experience**
+- 📚 **5+ Research Publications** | **3+ Years of Professional Experience**
 - 🌍 **International Reviewer of Research Papers at ETASR (Engineering, Technology & Applied Science Research)**
 - ⚡ Interested in **AI, ML, XAI, Trading, Automation, and Cloud Computing**
 
